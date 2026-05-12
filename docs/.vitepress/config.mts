@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/leading-with-ai-walmart/',
+  base: '/walmart-ai-workshop/',
   title: "Leading with AI – Walmart",
   description: "Workshop práctico para líderes de Walmart sobre decisiones asistidas por IA",
   lang: 'es-ES',
