@@ -25,7 +25,7 @@ Al final de la sesión, cada equipo habrá construido un **AI Decision Brief** b
 - Set inicial de preguntas estratégicas para investigar los datos.
 - Hipótesis priorizadas.
 - Análisis asistido por IA con evidencia, límites y riesgos.
-- Plan de acción de 30 días con métrica de éxito.
+- Plantilla final para presentar hallazgos, nivel de confianza y límites del análisis.
 
 ---
 
@@ -37,7 +37,7 @@ Al final de la sesión, cada equipo habrá construido un **AI Decision Brief** b
 | 2. Del dato a la pregunta | 35 min | Diseñar preguntas estratégicas antes de analizar |
 | 3. Definición del problema e hipótesis | 35 min | Separar síntomas, causas y decisiones |
 | 4. Análisis asistido por IA | 45 min | Evaluar hipótesis con evidencia y límites |
-| 5. Plan de acción y pitch ejecutivo | 65 min | Convertir hallazgos en decisión defendible |
+| Cierre. Plantilla final | 65 min | Presentar hallazgos, evidencia y límites |
 
 ---
 
@@ -412,53 +412,27 @@ Decisión que todavía no deberíamos tomar:
 
 ---
 
-## Bloque 5: Plan De Acción Y Pitch Ejecutivo (65 min)
+## Cierre: Plantilla Final Para Presentar Hallazgos (65 min)
 
-### Objetivo
+Cada equipo toma el mini mapa de decisión del bloque anterior y lo convierte en una presentación breve de hallazgos. La meta no es vender una iniciativa grande, sino explicar con claridad qué encontraron, qué tan fuerte es la evidencia y qué todavía no se puede concluir.
 
-Transformar análisis en una decisión ejecutiva defendible, con experimento de bajo riesgo y métrica de éxito.
-
-### Dinámica
-
-Cada equipo toma el mini mapa de decisión del bloque anterior y lo convierte en una recomendación ejecutiva. La clave es no brincar de "encontramos un insight" a "hagamos una iniciativa grande"; primero deben diseñar una acción concreta, pequeña y medible.
-
-Antes de escribir el plan, cada equipo debe responder:
-
-- ¿Qué decisión sí podemos tomar con la evidencia actual?
-- ¿Qué decisión sería prematura?
-- ¿Qué riesgo estamos aceptando si actuamos?
-- ¿Qué riesgo estamos aceptando si no actuamos?
-- ¿Qué experimento de 30 días nos permitiría aprender sin comprometer demasiado tiempo, presupuesto o reputación?
-
-### Pitch Ejecutivo
+### Instrucción
 
 Cada equipo presenta en 4 minutos:
 
 1. Problema definido.
 2. Pregunta estratégica.
 3. Hipótesis investigada.
-4. Evidencia más importante.
-5. Decisión recomendada.
-6. Riesgo principal de actuar o no actuar.
-7. Experimento de 30 días.
-8. Métrica de éxito.
+4. Hallazgos principales.
+5. Evidencia que sostiene los hallazgos.
+6. Nivel de confianza.
+7. Límites del análisis.
+8. Próximo paso sugerido.
 
-### Criterios De Evaluación
-
-El grupo evalúa cada pitch con estas preguntas:
-
-- ¿El problema está claramente definido?
-- ¿La recomendación se desprende de la evidencia?
-- ¿El equipo declaró límites y riesgos?
-- ¿El experimento es realista en 30 días?
-- ¿La métrica de éxito mide impacto, no solo actividad?
-
----
-
-## Plantilla Final: Pitch Ejecutivo
+### Plantilla Final
 
 ```markdown
-# Pitch Ejecutivo
+# Presentación De Hallazgos
 **Equipo / Tribu:**
 **Caso analizado:**
 
@@ -479,44 +453,19 @@ Queremos entender si [causa o patrón] está afectando [resultado observable] en
 - Lo que los datos no pueden confirmar:
 - Nivel de confianza: Alto / Medio / Bajo
 
-## 5. Decisión Recomendada
-[Una decisión concreta y accionable, conectada directamente con la evidencia]
+## 5. Hallazgos Principales
+- Hallazgo 1:
+- Hallazgo 2:
+- Hallazgo 3:
 
-## 6. Riesgo Principal
-- Si actuamos:
-- Si no actuamos:
+## 6. Límites Del Análisis
+- Qué dato falta:
+- Qué conclusión sería prematura:
+- Qué supuesto debe revisarse:
 
-## 7. Experimento De 30 Días
-- Acción concreta:
-- Dueño:
-- Alcance o población:
-- Señales a revisar en 2 semanas:
+## 7. Implicación Para La Decisión
+[Qué cambia en nuestra forma de entender el problema o priorizar la siguiente conversación]
 
-## 8. Métrica De Éxito
-[Una métrica que mida impacto, no solo actividad]
+## 8. Próximo Paso Sugerido
+[Una pregunta, validación o conversación concreta que debería seguir después del workshop]
 ```
-
----
-
-## Cierre Del Workshop (10 min)
-
-### Reflexión Silenciosa (2 min)
-
-Cada participante responde en silencio:
-
-```text
-La próxima vez que use IA para una decisión importante, antes de pedirle una respuesta voy a pedirle que me ayude a:
-```
-
-### Reflexión Grupal (5 min)
-
-Preguntas para abrir al grupo:
-
-- ¿Qué parte del proceso cambió más tu forma de pensar: preguntar, definir el problema, formular hipótesis, analizar evidencia o diseñar acción?
-- ¿Qué caso real de tu tribu podrías trabajar con este método en los próximos 30 días?
-
-### Cierre Grupal (3 min)
-
-Pregunta final al grupo:
-
-> ¿Qué tendría que pasar para que usar IA en decisiones importantes se vuelva una práctica de equipo, no solo una habilidad individual?
